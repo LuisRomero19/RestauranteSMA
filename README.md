@@ -165,14 +165,14 @@ RestauranteSMA/
 
 ---
 
-## 👥 Equipo
+## 👥 Equipo 2
 
-- [Nombre 1]
-- [Nombre 2]
-- [Nombre 3 — Luis Romero]
+- Olivos Canales, Christian
+- Prado Sisley, Leonidas Antonio
+- Romero Angeles, Luis Alfredo Félix
 
-**Repositorio:** https://github.com/[org]/RestauranteSMA  
-**Video Demo:** https://youtu.be/[id]
+**Repositorio:** [https://github.com/[org]/RestauranteSM](https://github.com/LuisRomero19/RestauranteSMA)  
+**Video Demo:** [https://youtu.be/[id]](https://youtu.be/I8ivhlccwa8)
 
 ---
 
